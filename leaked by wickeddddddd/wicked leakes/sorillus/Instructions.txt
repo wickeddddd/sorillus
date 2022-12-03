@@ -1,0 +1,9 @@
+Open "start.exe"
+
+If it doesn't show up, press windows key then cmd and type "cd (file address path) install requirements"
+
+Password is linker
+
+enjoy
+
+(made by linker)
